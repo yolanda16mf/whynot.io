@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Welcome!</title>
 </head>
 <body>
 <h1>Hi, this is my page.</h1>
